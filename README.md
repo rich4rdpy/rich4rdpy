@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate of IT and informatic developement.</h3>
 
-- 🔭 I’m currently working on [TSURV](https:://github.com/rich4rdpy/tsurv)
+- 🔭 I’m currently working on [TSURV](https://github.com/rich4rdpy/tsurv)
 
 - 🌱 I’m currently learning **Network**
 
